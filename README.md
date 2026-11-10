@@ -37,6 +37,6 @@ PHP 7+ syntax and fail on older targets.
 ### Option A — clone and symlink
 
 ```bash
-git clone https://github.com/<your-user>/binarysaints.git
+git clone https://github.com/BARONWILLIAMS1/binarysaints.git
 cd binarysaints
 sudo ln -sf "$PWD/binarysaints" /usr/local/bin/binarysaints
