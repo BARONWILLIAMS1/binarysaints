@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+*.php
+!examples/*.php
+notes/
+*.log

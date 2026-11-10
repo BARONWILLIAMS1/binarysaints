@@ -1,0 +1,6 @@
+This directory intentionally contains no live payloads.
+Generate one locally with:
+
+    binarysaints generate <password> <outfile.php>
+
+Then upload it to a target you are authorized to test.
